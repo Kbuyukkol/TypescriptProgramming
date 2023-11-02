@@ -1,0 +1,2 @@
+let myTuple : [string,boolean];
+
